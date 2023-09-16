@@ -38,7 +38,4 @@ Estamos sempre em busca de talentos e parcerias. Se você é apaixonado por dado
 ![Data Analytics Gif](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif)
 
 
----
-
-<iframe src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg">via GIPHY</a></p>
 
